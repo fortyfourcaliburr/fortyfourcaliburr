@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**fortyfourcaliburr/fortyfourcaliburr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"
+  
+  ![](https://file.garden/afMhXMzj4BOnPnEw/cicerogithubpng.png)
+  
 
-Here are some ideas to get you started:
+<p align="center"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+read‎ ‎ ‎ ‎ ‎ ‎ ‎ ⛧‎ ‎ ‎ ‎ ‎ ‎ ‎ my‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ⛧‎ ‎ ‎ ‎ ‎ ‎ ‎ strawpage‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ⛧‎ ‎ ‎ ‎ ‎ ‎ ‎ [here](https://lifeischeapdeathisfree.straw.page/)
+
+<p align="center"
+  
+sign ‎ ‎ ‎ ‎ ‎ ‎ ‎ ⛧ ‎ ‎ ‎ ‎ ‎ ‎ my‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ⛧‎ ‎ ‎ ‎ ‎ ‎ ‎ atabook ‎ ‎ ‎ ‎ ‎ ‎ ⛧‎ ‎ ‎ ‎ ‎ ‎ ‎ [here](https://theearthishungry.atabook.org/)
