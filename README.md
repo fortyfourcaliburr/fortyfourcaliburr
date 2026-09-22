@@ -6,8 +6,8 @@
 
 <p align="center"
 
-sign ‎ ‎ ‎ ‎ ‎ ‎ ‎ ·‎ ‎ ‎ ‎ ‎ ‎ ‎ my‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ·‎ ‎ ‎ ‎ ‎ ‎ ‎ strawpage ‎ ‎ ‎ ‎ ‎ ‎ ‎ ·‎ ‎ ‎ ‎ ‎ ‎ ‎ [here](https://lifeischeapdeathisfree.straw.page/)
+strawpag is wip
 <p align="center"
   
-sign‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ·‎ ‎ ‎ ‎ ‎ ‎ ‎ my‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ·‎ ‎ ‎ ‎ ‎ ‎ ‎ atabook ‎ ‎ ‎ ‎ ‎ ‎ ‎ ·‎ ‎ ‎ ‎ ‎ ‎ ‎ [here](https://onlymyweaponunderstandsme.atabook.org/)
+sign‎ ‎ ‎ ‎ ‎my‎‎ ‎ ‎ atabook ‎ ‎ ‎ ‎ [here](https://onlymyweaponunderstandsme.atabook.org/)
 
