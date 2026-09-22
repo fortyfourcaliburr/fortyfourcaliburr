@@ -6,7 +6,7 @@
 
 <p align="center"
 
-strawpag is wip
+strawpage is wip
 <p align="center"
   
 sign‎ ‎ ‎ ‎ ‎my‎‎ ‎ ‎ atabook ‎ ‎ ‎ ‎ [here](https://onlymyweaponunderstandsme.atabook.org/)
