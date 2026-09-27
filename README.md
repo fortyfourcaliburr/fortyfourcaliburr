@@ -1,7 +1,7 @@
 
 <p align="center"
 
-strawpage is wip
+strawpage [here](https://borderlinestalker.straw.page/)
 <p align="center"
   
 sign‎ ‎ ‎ ‎ ‎my‎‎ ‎ ‎ atabook ‎ ‎ ‎ ‎ [here](https://onlymyweaponunderstandsme.atabook.org/)
